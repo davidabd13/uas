@@ -1,4 +1,5 @@
 David Abadi's Portfolio: Data Analyst & Narrative Architect 📊
+
 Welcome to the official portfolio of David Abadi, a dedicated Data Analyst and Narrative Architect. This website showcases his expertise in transforming complex data into clear, actionable insights and compelling stories.
 
 🌟 Purpose
